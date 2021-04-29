@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Enquete",
+			"Path": "D:\\E-Artsup\\Unreal\\Enquete\\Enquete 4.26\\Source\\Enquete.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EnqueteEditor",
+			"Path": "D:\\E-Artsup\\Unreal\\Enquete\\Enquete 4.26\\Source\\EnqueteEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

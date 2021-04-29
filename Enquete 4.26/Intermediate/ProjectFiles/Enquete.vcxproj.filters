@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Enquete.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C37A1309-0E20-41C4-8FC1-F6D806B15080}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Enquete.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EnqueteEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8D89986E-B882-4E7B-87B3-2E9EDB003E65}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Enquete">
+      <UniqueIdentifier>{5A832962-D2D1-48B8-AE1F-2B8E4CEB5502}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Enquete\Enquete.Build.cs">
+      <Filter>Source\Enquete</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Enquete\Enquete.cpp">
+      <Filter>Source\Enquete</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Enquete\Enquete.h">
+      <Filter>Source\Enquete</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Enquete\MyPawn.cpp">
+      <Filter>Source\Enquete</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Enquete\MyPawn.h">
+      <Filter>Source\Enquete</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
