@@ -1,5 +1,5 @@
-D:\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\Definitions.Enquete.h
-D:\UnrealGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\UnrealGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Enquete\Enquete 4.26\Source\Enquete/MyPawn.h
-D:\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Inc\Enquete\MyPawn.generated.h
+D:\Users\33783\Documents\GitHub\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\Definitions.Enquete.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Users\33783\Documents\GitHub\Enquete\Enquete 4.26\Source\Enquete/MyPawn.h
+D:\Users\33783\Documents\GitHub\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Inc\Enquete\MyPawn.generated.h
