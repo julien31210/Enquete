@@ -6,6 +6,7 @@
 /NAME:"UE4Editor-Enquete.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< HEAD
 "D:\Users\33783\Documents\GitHub\Enquete\Enquete 4.26\Intermediate\Build\Win64\EnqueteEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "D:\Users\33783\Documents\GitHub\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\Enquete.cpp.obj"
 "D:\Users\33783\Documents\GitHub\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\MyPawn.cpp.obj"
@@ -13,4 +14,13 @@
 "D:\Users\33783\Documents\GitHub\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\MyPawn.gen.cpp.obj"
 "D:\Users\33783\Documents\GitHub\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\Default.rc2.res"
 /OUT:"D:\Users\33783\Documents\GitHub\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\UE4Editor-Enquete.lib"
+=======
+"D:\Enquete\Enquete 4.26\Intermediate\Build\Win64\EnqueteEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\Enquete.cpp.obj"
+"D:\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\MyPawn.cpp.obj"
+"D:\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\Enquete.init.gen.cpp.obj"
+"D:\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\MyPawn.gen.cpp.obj"
+"D:\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\Default.rc2.res"
+/OUT:"D:\Enquete\Enquete 4.26\Intermediate\Build\Win64\UE4Editor\Development\Enquete\UE4Editor-Enquete.lib"
+>>>>>>> origin/BranchJulienItemInteractable
 /INCLUDE:IMPLEMENT_MODULE_Enquete
