@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\PRETE Florian\\Documents\\GitHub\\Enquete\\Enquete 4.26\\Source\\Enquete\\Enquete.Build.cs",
-		"C:\\Users\\PRETE Florian\\Documents\\GitHub\\Enquete\\Enquete 4.26\\Source\\Enquete.Target.cs",
-		"C:\\Users\\PRETE Florian\\Documents\\GitHub\\Enquete\\Enquete 4.26\\Source\\EnqueteEditor.Target.cs"
+		"D:\\Enquete\\Enquete 4.26\\Source\\Enquete\\Enquete.Build.cs",
+		"D:\\Enquete\\Enquete 4.26\\Source\\Enquete.Target.cs",
+		"D:\\Enquete\\Enquete 4.26\\Source\\EnqueteEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }
