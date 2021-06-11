@@ -1,0 +1,1529 @@
+﻿Log file open, 06/11/21 10:17:44
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Enquete
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.249134
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogXGEController: Cleaning working directory: C:/Users/33783/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.11-08.17.44:556][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.11-08.17.44:556][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Engine.ini]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.06.11-08.17.44:557][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Engine.ini]
+[2021.06.11-08.17.44:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Engine.ini]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.11-08.17.44:558][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Engine.ini]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.11-08.17.44:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Engine.ini]
+[2021.06.11-08.17.44:559][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Engine.ini]
+[2021.06.11-08.17.44:578][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.11-08.17.44:578][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.11-08.17.44:579][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.11-08.17.44:579][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.11-08.17.44:579][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.11-08.17.44:580][  0]LogHAL: Display: Platform has ~ 16 GB [17022189568 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.11-08.17.44:580][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.11-08.17.44:580][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.11-08.17.44:580][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.11-08.17.44:581][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.11-08.17.44:582][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.11-08.17.44:582][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.11-08.17.44:582][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.11-08.17.44:582][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Engine.ini]
+[2021.06.11-08.17.44:582][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Windows/Editor.ini]
+[2021.06.11-08.17.44:582][  0]LogInit: Computer: LAPTOP-9547772A
+[2021.06.11-08.17.44:582][  0]LogInit: User: 33783
+[2021.06.11-08.17.44:582][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.06.11-08.17.44:582][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.11-08.17.44:582][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.06.11-08.17.44:582][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.11-08.17.44:582][  0]LogMemory: Process Physical Memory: 134.14 MB used, 134.15 MB peak
+[2021.06.11-08.17.44:582][  0]LogMemory: Process Virtual Memory: 111.37 MB used, 111.37 MB peak
+[2021.06.11-08.17.44:582][  0]LogMemory: Physical Memory: 9890.24 MB used,  6343.39 MB free, 16233.62 MB total
+[2021.06.11-08.17.44:582][  0]LogMemory: Virtual Memory: 134195488.00 MB used,  22241.36 MB free, 134217728.00 MB total
+[2021.06.11-08.17.45:002][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.11-08.17.45:042][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.11-08.17.45:043][  0]LogInit: Using OS detected language (fr-FR).
+[2021.06.11-08.17.45:043][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.06.11-08.17.45:051][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.06.11-08.17.45:051][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.06.11-08.17.45:051][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.06.11-08.17.45:051][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.06.11-08.17.45:052][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.06.11-08.17.45:052][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.06.11-08.17.45:052][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.06.11-08.17.45:052][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.06.11-08.17.45:053][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.11-08.17.45:068][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.11-08.17.45:087][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.11-08.17.45:087][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.11-08.17.45:477][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.11-08.17.45:477][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.11-08.17.45:477][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.11-08.17.45:591][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.06.11-08.17.45:591][  0]LogD3D11RHI:       8031/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.11-08.17.45:609][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.06.11-08.17.45:609][  0]LogD3D11RHI:       128/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.06.11-08.17.45:612][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.11-08.17.45:612][  0]LogD3D11RHI:       0/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.11-08.17.45:612][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.11-08.17.45:673][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.11-08.17.45:674][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.11-08.17.45:674][  0]LogWindows: EnumDisplayDevices:
+[2021.06.11-08.17.45:674][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.06.11-08.17.45:674][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.06.11-08.17.45:675][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.06.11-08.17.45:675][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.06.11-08.17.45:675][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.06.11-08.17.45:676][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.06.11-08.17.45:676][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.06.11-08.17.45:676][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.06.11-08.17.45:676][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.06.11-08.17.45:676][  0]LogD3D11RHI:   Driver Version: 441.93 (internal:26.21.14.4193, unified:441.93)
+[2021.06.11-08.17.45:676][  0]LogD3D11RHI:      Driver Date: 1-2-2020
+[2021.06.11-08.17.45:676][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.06.11-08.17.45:739][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.11-08.17.45:739][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.11-08.17.45:739][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.11-08.17.45:755][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.11-08.17.45:757][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.11-08.17.46:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.11-08.17.46:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.11-08.17.46:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.11-08.17.46:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.11-08.17.46:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.11-08.17.46:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.11-08.17.46:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.11-08.17.46:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.11-08.17.46:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.11-08.17.46:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.11-08.17.46:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.11-08.17.46:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.11-08.17.46:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.11-08.17.46:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.11-08.17.46:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.11-08.17.46:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.11-08.17.46:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.11-08.17.46:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.11-08.17.46:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.11-08.17.46:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.11-08.17.46:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.11-08.17.46:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.11-08.17.46:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.11-08.17.46:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.11-08.17.46:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.11-08.17.46:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.11-08.17.46:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.11-08.17.46:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.11-08.17.46:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.11-08.17.46:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.11-08.17.46:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.11-08.17.46:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.11-08.17.46:442][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.11-08.17.46:453][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.11-08.17.46:544][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.11-08.17.46:544][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Intermediate/Shaders/WorkingDirectory/28936/).
+[2021.06.11-08.17.46:544][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/33783/AppData/Local/Temp/UnrealShaderWorkingDir/7C38F5B24E08313A1A8C84925E98964E/'.
+[2021.06.11-08.17.46:544][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.11-08.17.46:544][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.11-08.17.47:377][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.11-08.17.47:425][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/33783/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.11-08.17.47:425][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/33783/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.11-08.17.47:425][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.11-08.17.47:425][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.11-08.17.47:425][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.11-08.17.47:426][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.11-08.17.47:438][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.11-08.17.47:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.11-08.17.47:438][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.11-08.17.47:448][  0]LogDerivedDataCache: Speed tests for C:/Users/33783/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.06.11-08.17.47:448][  0]LogDerivedDataCache: Display: Performance to C:/Users/33783/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=594.51MBs, RandomWriteSpeed=119.95MBs. Assigned SpeedClass 'Local'
+[2021.06.11-08.17.47:449][  0]LogDerivedDataCache: Using Local data cache path C:/Users/33783/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.11-08.17.47:449][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.11-08.17.47:449][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.11-08.17.47:494][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.11-08.17.47:495][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.11-08.17.47:520][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2021.06.11-08.17.47:774][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.11-08.17.47:774][  0]LogInit: Active device profile: [0000021ED9082C00][0000021ED7599780 49] Windows
+[2021.06.11-08.17.47:774][  0]LogInit: Profiles: [0000021ED9082C00][0000021ED7599780 49] Windows, [0000021ED9049600][0000021ED759D8C0 49] WindowsNoEditor, [0000021ED9081600][0000021ED96D3A00 49] WindowsServer, [0000021ED904A400][0000021ED96DBB80 49] WindowsClient, [0000021ED9082300][0000021ED96DFD00 49] IOS, [0000021ED9049200][0000021ED96E21C0 49] iPadAir, [0000021ED9081400][0000021ED96E6340 49] iPadAir2, [0000021ED8FFBD00][0000021ED96EE600 49] IPadPro, [0000021ED8FFBE00][0000021ED96EA640 49] iPadAir3, [0000021ED9083400][0000021ED96F27C0 49] iPadAir4, [0000021ED8FF9B00][0000021ED96F6940 49] iPadMini2, [0000021ED9082900][0000021ED96FAAC0 49] iPadMini3, [0000021ED8FF8900][0000021ED96FEC40 49] iPadMini4, [0000021ED9083100][0000021ED9702DC0 49] iPadMini5, [0000021ED9043600][0000021ED970B080 49] iPhone6, [0000021ED9043700][0000021ED97070C0 49] iPodTouch6, [0000021ED8FF8100][0000021ED9713380 49] iPhone7, [0000021ED8FF9C00][0000021ED970F3C0 49] iPodTouch7, [0000021ED9041A00][0000021ED9717540 49] iPhone5S, [0000021ED8FFA800][0000021ED96D7680 49] iPhone6Plus, [0000021ED9043C00][0000021ED971B7C0 49] iPhone6S, [0000021ED8FF9900][0000021ED971F900 49] iPhone6SPlus, [0000021ED9043200][0000021ED9723A40 49] iPhone7Plus, [0000021ED8FF9E00][0000021ED972BBC0 49] iPhoneSE, [0000021ED9041C00][0000021ED972FD40 49] iPhone8, [0000021ED8FFA400][0000021ED9732200 49] iPhone8Plus, [0000021ED9042200][0000021ED9736380 49] iPhoneX, [0000021ED8FFB800][0000021ED973A500 49] iPhoneXS, [0000021ED9041800][0000021ED973E680 49] iPhoneXSMax, [0000021ED8FFA300][0000021ED9742800 49] iPhoneXR, [0000021ED9041900][0000021ED9746980 49] iPhone11, [0000021ED8FF8300][0000021ED974AB00 49] iPhone11Pro, [0000021ED9043A00][0000021ED974EC80 49] iPhone11ProMax, [0000021ED8FFB200][0000021ED9752E00 49] iPhoneSE2, [0000021ED9042800][0000021ED9756F80 49] iPhone12Mini, [0000021ED8FFAC00][0000021ED975B100 49] iPhone12, [0000021ED9040600][0000021ED975F280 49] iPhone12Pro, [0000021ED8FF9500][0000021ED9763400 49] iPhone12ProMax, [0000021ED9043100][0000021ED9767580 49] iPadPro105, [0000021ED8FF8600][0000021ED976B700 49] iPadPro129, [0000021ED9040800][0000021ED9727840 49] iPadPro97, [0000021ED8FFA000][0000021ED976F980 49] iPadPro2_129, [0000021ED9043500][0000021ED9773AC0 49] iPad5, [0000021ED8FFAB00][0000021ED977BC40 49] iPad6, [0000021ED9043E00][0000021ED977E100 49] iPad7, [0000021ED8FF9F00][0000021ED9782280 49] iPad8, [0000021ED9040300][0000021ED9786400 49] iPadPro11, [0000021ED8FFAE00][0000021ED978A580 49] iPadPro2_11, [0000021ED9042500][0000021ED978E700 49] iPadPro3_129, [0000021ED8FF9000][0000021ED9792880 49] iPadPro4_129, [0000021ED9042B00][0000021ED9796A00 49] AppleTV, [0000021ED8FFB000][0000021ED979AB80 49] AppleTV4K, [0000021ED9043F00][0000021ED979ED00 49] TVOS, [0000021ED9048F00][0000021ED97A2E80 49] Mac, [0000021ED90D0700][0000021ED97A7000 49] MacClient, [0000021ED904B400][0000021ED97AB180 49] MacNoEditor, [0000021ED90D1100][0000021ED97AF300 49] MacServer, [0000021ED904A600][0000021ED97B3480 49] Linux, [0000021ED90D1500][0000021ED97B7600 49] LinuxAArch64, [0000021ED9049C00][0000021ED97BB780 49] LinuxNoEditor, [0000021ED90D0500][0000021ED97778C0 49] LinuxAArch64NoEditor, [0000021ED904B000][0000021ED97BFA00 49] LinuxClient, [0000021ED9040F00][0000021ED97C3B40 49] LinuxAArch64Client, [0000021ED904A100][0000021ED97CBCC0 49] LinuxServer, [0000021ED9041E00][0000021ED97CE180 49] LinuxAArch64Server, [0000021ED904B900][0000021ED97D2300 49] Android, [0000021ED9042700][0000021ED97D6480 49] Android_Low, [0000021ED904BF00][0000021ED97DA600 49] Android_Mid, [0000021ED9041D00][0000021ED97DE780 49] Android_High, [0000021ED9048100][0000021ED97E2900 49] Android_Default, [0000021ED9040E00][0000021ED97E6A80 49] Android_Adreno4xx, [0000021ED9049400][0000021ED97EAC00 49] Android_Adreno5xx_Low, [0000021ED9042A00][0000021ED97EED80 49] Android_Adreno5xx, [0000021ED904B300][0000021ED97F2F00 49] Android_Adreno6xx, [0000021ED9041500][0000021ED97F7080 49] Android_Adreno6xx_Vulkan, [0000021ED904A800][0000021ED97FB200 49] Android_Mali_T6xx, [0000021ED9040A00][0000021ED97FF380 49] Android_Mali_T7xx, [0000021ED904B800][0000021ED9803500 49] Android_Mali_T8xx, [0000021ED9043D00][0000021ED9807680 49] Android_Mali_G71, [0000021ED9048200][0000021ED980B800 49] Android_Mali_G72, [0000021ED9042300][0000021ED97C7940 49] Android_Mali_G72_Vulkan, [0000021ED9049E00][0000021ED980FA80 49] Android_Mali_G76, [0000021ED9043B00][0000021ED9813BC0 49] Android_Mali_G76_Vulkan, [0000021ED904B100][0000021ED9817D00 49] Android_Mali_G77, [0000021ED9041700][0000021ED981E1C0 49] Android_Mali_G77_Vulkan, [0000021ED9049500][0000021ED9822340 49] Android_Vulkan_SM5, [0000021ED9042D00][0000021ED98264C0 49] Android_PowerVR_G6xxx, [0000021ED9048C00][0000021ED982A640 49] Android_PowerVR_GT7xxx, [0000021ED9040200][0000021ED982E7C0 49] Android_PowerVR_GE8xxx, [0000021ED9048300][0000021ED9832940 49] Android_PowerVR_GM9xxx, [0000021ED9042400][0000021ED9836AC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000021ED904AA00][0000021ED983AC40 49] Android_TegraK1, [0000021ED9043800][0000021ED983EDC0 49] Android_Unknown_Vulkan, [0000021ED9082100][0000021ED9842F40 49] Lumin, [0000021ED8FF9800][0000021ED98470C0 49] Lumin_Desktop, [0000021ED9080300][0000021ED984B240 49] HoloLens, 
+[2021.06.11-08.17.47:895][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.11-08.17.47:895][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.11-08.17.47:895][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.11-08.17.47:895][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.11-08.17.47:895][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.11-08.17.47:918][  0]LogNetVersion: Enquete 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2008225435)
+[2021.06.11-08.17.48:465][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.055625 seconds
+[2021.06.11-08.17.48:471][  0]LogUObjectArray: 16728 objects as part of root set at end of initial load.
+[2021.06.11-08.17.48:471][  0]LogUObjectAllocator: 4180832 out of 0 bytes used by permanent object pool.
+[2021.06.11-08.17.48:471][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.11-08.17.48:973][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.11-08.17.48:982][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.11-08.17.49:107][  0]SourceControl: Source control is disabled
+[2021.06.11-08.17.49:688][  0]LogUProjectInfo: Found projects:
+[2021.06.11-08.17.49:971][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.11-08.17.49:999][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.11-08.17.49:999][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.11-08.17.50:064][  0]LogCollectionManager: Loaded 0 collections in 0.001797 seconds
+[2021.06.11-08.17.50:068][  0]LogFileCache: Scanning file cache for directory 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Collections/' took 0.00s
+[2021.06.11-08.17.50:068][  0]LogFileCache: Scanning file cache for directory 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/Developers/33783/Collections/' took 0.00s
+[2021.06.11-08.17.50:068][  0]LogFileCache: Scanning file cache for directory 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/Collections/' took 0.00s
+[2021.06.11-08.17.50:130][  0]LogEngine: Initializing Engine...
+[2021.06.11-08.17.50:131][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.11-08.17.50:132][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.11-08.17.50:249][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.11-08.17.50:259][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.11-08.17.50:274][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.11-08.17.50:279][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.11-08.17.50:279][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.11-08.17.50:279][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.11-08.17.50:279][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.11-08.17.50:279][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.11-08.17.50:279][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.11-08.17.50:279][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.11-08.17.50:279][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.11-08.17.50:279][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.11-08.17.50:279][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.11-08.17.50:280][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.11-08.17.50:280][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.11-08.17.50:888][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.11-08.17.50:888][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.11-08.17.50:888][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.06.11-08.17.50:888][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.06.11-08.17.50:888][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.06.11-08.17.50:888][  0]LogAudioMixer: Display: 5: BackRight
+[2021.06.11-08.17.50:888][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.06.11-08.17.50:888][  0]LogAudioMixer: Display: 7: SideRight
+[2021.06.11-08.17.51:425][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.06.11-08.17.51:432][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.11-08.17.51:435][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.11-08.17.51:435][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.11-08.17.51:436][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.11-08.17.51:436][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.11-08.17.51:436][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.06.11-08.17.51:437][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.11-08.17.51:437][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.11-08.17.51:437][  0]LogInit: FAudioDevice initialized.
+[2021.06.11-08.17.51:438][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.11-08.17.51:438][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.11-08.17.51:484][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/33783/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.11-08.17.51:488][  0]LogInit: Texture streaming: Enabled
+[2021.06.11-08.17.51:506][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.11-08.17.51:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.11-08.17.51:519][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={FFB9C8B4-4BF1-B6E9-8DE7-B98905C3C454}
+[2021.06.11-08.17.51:519][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.11-08.17.51:540][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.11-08.17.51:914][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Android/Scalability.ini]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.NeverOcclusionTestDistance:2000]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Android/Scalability.ini]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Android/Scalability.ini]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.ShadowQuality:2]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:2]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Android/Scalability.ini]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.11-08.17.51:914][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:3]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.RefractionQuality:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Android/Scalability.ini]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Android/Scalability.ini]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:4]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:1.0]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:8.0]]
+[2021.06.11-08.17.51:915][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:1]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.Width:96]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.Height:50]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Android/Scalability.ini]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[grass.CullDistanceScale:1.0]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Config/Android/Scalability.ini]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.11-08.17.51:916][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.11-08.17.51:916][  0]LogInit: Transaction tracking system initialized
+[2021.06.11-08.17.51:943][  0]BlueprintLog: New page: Editor Load
+[2021.06.11-08.17.52:035][  0]LocalizationService: Localization service is disabled
+[2021.06.11-08.17.52:064][  0]TimingProfiler: Initialize
+[2021.06.11-08.17.52:065][  0]TimingProfiler: OnSessionChanged
+[2021.06.11-08.17.52:065][  0]LoadingProfiler: Initialize
+[2021.06.11-08.17.52:065][  0]LoadingProfiler: OnSessionChanged
+[2021.06.11-08.17.52:065][  0]NetworkingProfiler: Initialize
+[2021.06.11-08.17.52:065][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.11-08.17.52:065][  0]MemoryProfiler: Initialize
+[2021.06.11-08.17.52:065][  0]MemoryProfiler: OnSessionChanged
+[2021.06.11-08.17.52:240][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.11-08.17.52:240][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.11-08.17.52:447][  0]LogFileCache: Scanning file cache for directory 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/' took 0.00s
+[2021.06.11-08.17.52:448][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.11-08.17.52:467][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.179
+[2021.06.11-08.17.52:467][  0]Cmd: MAP LOAD FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/00_SCENE/01_EnqueteScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=1
+[2021.06.11-08.17.52:468][  0]LightingResults: New page: Lighting Build
+[2021.06.11-08.17.52:468][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.11-08.17.52:469][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.11-08.17.52:469][  0]MapCheck: New page: Map Check
+[2021.06.11-08.17.52:469][  0]LightingResults: New page: Lighting Build
+[2021.06.11-08.17.52:479][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.11-08.17.52:966][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '01_EnqueteScene'.
+[2021.06.11-08.17.52:968][  0]LogAIModule: Creating AISystem for world 01_EnqueteScene
+[2021.06.11-08.17.52:993][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.11-08.17.53:005][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.06.11-08.17.53:005][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.11-08.17.53:005][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
+[2021.06.11-08.17.53:005][  0]LogFileHelpers: Loading map '01_EnqueteScene' took 0.539
+[2021.06.11-08.17.53:007][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.719
+[2021.06.11-08.17.53:136][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.11-08.17.53:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.11-08.17.53:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.11-08.17.53:157][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.11-08.17.53:180][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3591 classes and 855 folders.
+[2021.06.11-08.17.53:183][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.11-08.17.53:185][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.11-08.17.53:185][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:185][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.11-08.17.53:185][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.06.11-08.17.53:186][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.11-08.17.53:186][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:186][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.11-08.17.53:187][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.06.11-08.17.53:188][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.11-08.17.53:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:188][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.11-08.17.53:188][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.06.11-08.17.53:189][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.11-08.17.53:189][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:189][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.11-08.17.53:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.11-08.17.53:190][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.11-08.17.53:190][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:190][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.11-08.17.53:191][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.06.11-08.17.53:192][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.11-08.17.53:192][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:192][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.11-08.17.53:192][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.06.11-08.17.53:193][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.11-08.17.53:193][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:193][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.11-08.17.53:193][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.06.11-08.17.53:194][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.11-08.17.53:194][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:194][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.11-08.17.53:194][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.06.11-08.17.53:195][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.11-08.17.53:195][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:195][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.11-08.17.53:195][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.06.11-08.17.53:196][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.11-08.17.53:196][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:196][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.11-08.17.53:196][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.06.11-08.17.53:197][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.11-08.17.53:197][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:197][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.11-08.17.53:197][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.06.11-08.17.53:198][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.11-08.17.53:198][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:198][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.11-08.17.53:198][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.06.11-08.17.53:199][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.11-08.17.53:199][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:199][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.11-08.17.53:199][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.06.11-08.17.53:200][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.11-08.17.53:200][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:200][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.11-08.17.53:200][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.06.11-08.17.53:201][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.11-08.17.53:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.11-08.17.53:201][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.06.11-08.17.53:201][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.11-08.17.53:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.11-08.17.53:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.06.11-08.17.53:202][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.11-08.17.53:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.11-08.17.53:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.06.11-08.17.53:203][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.11-08.17.53:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.11-08.17.53:203][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.06.11-08.17.53:204][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.11-08.17.53:204][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:204][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.11-08.17.53:204][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.06.11-08.17.53:205][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.11-08.17.53:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.11-08.17.53:205][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.06.11-08.17.53:206][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.11-08.17.53:206][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:206][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.11-08.17.53:206][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.06.11-08.17.53:207][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.11-08.17.53:207][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:207][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.11-08.17.53:207][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.06.11-08.17.53:208][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.11-08.17.53:208][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:208][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.11-08.17.53:208][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.06.11-08.17.53:209][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.11-08.17.53:209][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:209][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.11-08.17.53:209][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.06.11-08.17.53:209][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.11-08.17.53:209][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:209][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.11-08.17.53:209][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.06.11-08.17.53:210][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.11-08.17.53:210][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.11-08.17.53:210][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.11-08.17.53:210][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.06.11-08.17.53:272][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.11-08.17.53:273][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.06.11-08.17.53:413][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.11-08.17.53:415][  0]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.11-08.17.53:423][  0]LogSlate: Took 0.000574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.11-08.17.53:525][  0]LogRenderer: Reallocating scene render targets to support 840x380 Format 10 NumSamples 1 (Frame:1).
+[2021.06.11-08.17.53:641][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.11-08.17.53:641][  0]LogLoad: (Engine Initialization) Total time: 10.35 seconds
+[2021.06.11-08.17.53:641][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.11-08.17.53:641][  0]LogInit: First time updating LLM stats...
+[2021.06.11-08.17.53:695][  0]LogAssetRegistry: Asset discovery search completed in 6.1753 seconds
+[2021.06.11-08.17.53:696][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.06.11-08.17.53:737][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.11-08.17.59:174][153]LogSlate: Took 0.001676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.06.11-08.18.00:153][211]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.11-08.18.00:176][211]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/Mur_de_Brique_BaseColor.Mur_de_Brique_BaseColor
+[2021.06.11-08.18.00:181][211]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.06.11-08.18.06:850][578]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Mur_de_Brique_BaseColorA36A0AC34E86B27B910F168C1B4C0BAB.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/Mur_de_Brique_BaseColor.uasset'
+[2021.06.11-08.18.06:866][578]AssetCheck: New page: Asset Save: Mur_de_Brique_BaseColor
+[2021.06.11-08.18.06:866][578]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/Mur_de_Brique_BaseColor.Mur_de_Brique_BaseColor
+[2021.06.11-08.18.08:504][674]LogSlate: Window 'Mur_de_Brique_BaseColor' being destroyed
+[2021.06.11-08.18.08:516][674]LogSlate: Window 'Mur_de_Brique_BaseColor' being destroyed
+[2021.06.11-08.18.09:922][755]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/Mur_de_Brique_Normal.Mur_de_Brique_Normal
+[2021.06.11-08.18.14:801][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/Mur_de_Brique_Normal" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/Mur_de_Brique_Normal.uasset" SILENT=true
+[2021.06.11-08.18.14:813][ 24]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Mur_de_Brique_Normal7860C26449325681BE463890D17213BC.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/Mur_de_Brique_Normal.uasset'
+[2021.06.11-08.18.14:827][ 24]AssetCheck: New page: Asset Save: Mur_de_Brique_Normal
+[2021.06.11-08.18.14:827][ 24]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/Mur_de_Brique_Normal.Mur_de_Brique_Normal
+[2021.06.11-08.18.16:119][100]LogSlate: Window 'Mur_de_Brique_Normal' being destroyed
+[2021.06.11-08.18.16:127][100]LogSlate: Window 'Mur_de_Brique_Normal' being destroyed
+[2021.06.11-08.18.17:087][155]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/Mur_de_Brique_OcclusionRoughnessMetallic.Mur_de_Brique_OcclusionRoughnessMetallic
+[2021.06.11-08.18.20:432][324]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/Mur_de_Brique_OcclusionRoughness165B9C6E4F542EE09690C59FF4C53661.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/Mur_de_Brique_OcclusionRoughnessMetallic.uasset'
+[2021.06.11-08.18.20:447][324]AssetCheck: New page: Asset Save: Mur_de_Brique_OcclusionRoughnessMetallic
+[2021.06.11-08.18.20:447][324]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/Mur_de_Brique_OcclusionRoughnessMetallic.Mur_de_Brique_OcclusionRoughnessMetallic
+[2021.06.11-08.18.21:919][410]LogSlate: Window 'Mur_de_Brique_OcclusionRoughnessMetallic' being destroyed
+[2021.06.11-08.18.21:925][410]LogSlate: Window 'Mur_de_Brique_OcclusionRoughnessMetallic' being destroyed
+[2021.06.11-08.18.22:929][468]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Base_Levier_A.T_Base_Levier_A
+[2021.06.11-08.18.26:105][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Base_Levier_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Base_Levier_A.uasset" SILENT=true
+[2021.06.11-08.18.26:319][639]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Base_Levier_A6180025A48F23A8CAB049DA7B748BF42.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Base_Levier_A.uasset'
+[2021.06.11-08.18.26:329][639]AssetCheck: New page: Asset Save: T_Base_Levier_A
+[2021.06.11-08.18.26:329][639]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Base_Levier_A.T_Base_Levier_A
+[2021.06.11-08.18.27:643][716]LogSlate: Window 'T_Base_Levier_A' being destroyed
+[2021.06.11-08.18.27:652][716]LogSlate: Window 'T_Base_Levier_A' being destroyed
+[2021.06.11-08.18.28:618][772]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Base_Levier_N.T_Base_Levier_N
+[2021.06.11-08.18.32:187][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Base_Levier_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Base_Levier_N.uasset" SILENT=true
+[2021.06.11-08.18.32:391][966]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Base_Levier_N4C6C680A4B02450C79903CAF7D514611.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Base_Levier_N.uasset'
+[2021.06.11-08.18.32:402][966]AssetCheck: New page: Asset Save: T_Base_Levier_N
+[2021.06.11-08.18.32:402][966]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Base_Levier_N.T_Base_Levier_N
+[2021.06.11-08.18.34:555][ 93]LogSlate: Window 'T_Base_Levier_N' being destroyed
+[2021.06.11-08.18.34:561][ 93]LogSlate: Window 'T_Base_Levier_N' being destroyed
+[2021.06.11-08.18.35:360][139]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Base_Levier_O.T_Base_Levier_O
+[2021.06.11-08.18.38:316][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Base_Levier_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Base_Levier_O.uasset" SILENT=true
+[2021.06.11-08.18.38:593][297]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Base_Levier_O986DFDE74A488AB200EECDAFFBFE722C.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Base_Levier_O.uasset'
+[2021.06.11-08.18.38:603][297]AssetCheck: New page: Asset Save: T_Base_Levier_O
+[2021.06.11-08.18.38:604][297]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Base_Levier_O.T_Base_Levier_O
+[2021.06.11-08.18.40:346][399]LogSlate: Window 'T_Base_Levier_O' being destroyed
+[2021.06.11-08.18.40:356][399]LogSlate: Window 'T_Base_Levier_O' being destroyed
+[2021.06.11-08.18.41:456][463]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Canape_A.T_Canape_A
+[2021.06.11-08.18.44:864][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Canape_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Canape_A.uasset" SILENT=true
+[2021.06.11-08.18.45:135][643]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Canape_A5AFA9CEA4FC0BBEAF19102A84AA14308.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Canape_A.uasset'
+[2021.06.11-08.18.45:145][643]AssetCheck: New page: Asset Save: T_Canape_A
+[2021.06.11-08.18.45:145][643]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Canape_A.T_Canape_A
+[2021.06.11-08.18.46:702][734]LogSlate: Window 'T_Canape_A' being destroyed
+[2021.06.11-08.18.46:710][734]LogSlate: Window 'T_Canape_A' being destroyed
+[2021.06.11-08.18.47:524][781]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Canape_N.T_Canape_N
+[2021.06.11-08.18.53:106][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Canape_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Canape_N.uasset" SILENT=true
+[2021.06.11-08.18.53:325][ 94]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Canape_N66380C48447C4111ECA6F8B742825FF1.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Canape_N.uasset'
+[2021.06.11-08.18.53:335][ 94]AssetCheck: New page: Asset Save: T_Canape_N
+[2021.06.11-08.18.53:335][ 94]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Canape_N.T_Canape_N
+[2021.06.11-08.18.54:984][191]LogSlate: Window 'T_Canape_N' being destroyed
+[2021.06.11-08.18.54:994][191]LogSlate: Window 'T_Canape_N' being destroyed
+[2021.06.11-08.18.56:197][261]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Canape_O.T_Canape_O
+[2021.06.11-08.19.03:253][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Canape_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Canape_O.uasset" SILENT=true
+[2021.06.11-08.19.03:445][660]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Canape_OCC3820E5405D2F9DC319158C3FA433F6.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Canape_O.uasset'
+[2021.06.11-08.19.03:457][660]AssetCheck: New page: Asset Save: T_Canape_O
+[2021.06.11-08.19.03:457][660]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Canape_O.T_Canape_O
+[2021.06.11-08.19.04:615][728]LogSlate: Window 'T_Canape_O' being destroyed
+[2021.06.11-08.19.04:624][728]LogSlate: Window 'T_Canape_O' being destroyed
+[2021.06.11-08.19.05:592][784]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Coin_A.T_Coin_A
+[2021.06.11-08.19.06:985][856]LogSlate: Window 'T_Coin_A' being destroyed
+[2021.06.11-08.19.07:006][856]LogSlate: Window 'T_Coin_A' being destroyed
+[2021.06.11-08.19.10:289][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.06.11-08.19.11:984][ 50]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.11-08.19.12:195][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.11-08.19.12:208][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.06.11-08.19.12:212][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.11-08.19.12:456][ 50]SourceControl: Error: Updated 0 paths from the index
+[2021.06.11-08.19.12:621][ 50]SourceControl: rm 'Enquete 4.26/Content/03_PROPS/Texture/T_Coin_A.uasset'
+[2021.06.11-08.19.13:791][118]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Coin_Mur_A.T_Coin_Mur_A
+[2021.06.11-08.19.16:872][285]LogSlate: Window 'T_Coin_Mur_A' being destroyed
+[2021.06.11-08.19.16:887][285]LogSlate: Window 'T_Coin_Mur_A' being destroyed
+[2021.06.11-08.19.21:487][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.06.11-08.19.26:109][531]LogSlate: Window 'Save Content' being destroyed
+[2021.06.11-08.19.26:236][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Coin_Mur_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Coin_Mur_A.uasset" SILENT=true
+[2021.06.11-08.19.26:277][531]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Coin_Mur_AD24A10084A17D700C8F165B480E3CEB7.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Coin_Mur_A.uasset'
+[2021.06.11-08.19.27:464][531]LogStaticMesh: Building static mesh P_Canape_low...
+[2021.06.11-08.19.27:501][531]LogStaticMesh: Built static mesh [0.04s] /Game/03_PROPS/Props_3D/P_Canape_low.P_Canape_low
+[2021.06.11-08.19.27:601][531]LogMaterial: Display: Material /Game/03_PROPS/Materials/M_PorteVeranda.M_PorteVeranda needed to have new flag set bUsedWithStaticLighting !
+[2021.06.11-08.19.27:614][531]LogMaterial: Display: Missing cached shader map for material M_PorteVeranda, compiling. 
+[2021.06.11-08.19.27:689][531]LogMaterial: Display: Missing cached shader map for material M_PorteVeranda, compiling. 
+[2021.06.11-08.19.27:738][531]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 35
+[2021.06.11-08.19.27:738][531]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2021.06.11-08.19.27:738][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.06.11-08.19.27:738][531]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.06.11-08.19.27:738][531]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.06.11-08.19.27:738][531]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.06.11-08.19.27:738][531]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.11-08.19.27:738][531]MapCheck: Warning: M_PorteVeranda Material /Game/03_PROPS/Materials/M_PorteVeranda.M_PorteVeranda was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.06.11-08.19.27:796][531]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.06.11-08.19.27:824][531]LogAssetEditorSubsystem: Opening Asset editor for World /Game/00_SCENE/04_MergegScene.04_MergegScene
+[2021.06.11-08.19.27:825][531]Cmd: MAP LOAD FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/00_SCENE/04_MergegScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=1
+[2021.06.11-08.19.27:825][531]LightingResults: New page: Lighting Build
+[2021.06.11-08.19.27:826][531]LoadErrors: New page: Loading map: 04_MergegScene.umap
+[2021.06.11-08.19.27:831][531]LogWorld: UWorld::CleanupWorld for 01_EnqueteScene, bSessionEnded=true, bCleanupResources=true
+[2021.06.11-08.19.27:831][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.11-08.19.27:833][531]MapCheck: New page: Map Check
+[2021.06.11-08.19.27:833][531]LightingResults: New page: Lighting Build
+[2021.06.11-08.19.27:842][531]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.11-08.19.27:856][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.06.11-08.19.27:858][531]LogAudio: Display: Audio Device (ID: 1) registered with world '04_MergegScene'.
+[2021.06.11-08.19.27:859][531]LogWorld: Changing Feature Level (Enum) from 3 to 1
+[2021.06.11-08.19.28:059][531]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.11-08.19.28:059][531]LogAIModule: Creating AISystem for world 04_MergegScene
+[2021.06.11-08.19.28:073][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.11-08.19.28:082][531]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.11-08.19.28:082][531]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2021.06.11-08.19.28:082][531]LogFileHelpers: Loading map '04_MergegScene' took 0.258
+[2021.06.11-08.19.28:099][531]AssetCheck: New page: Asset Save: T_Coin_Mur_A
+[2021.06.11-08.19.28:099][531]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Coin_Mur_A.T_Coin_Mur_A
+[2021.06.11-08.19.28:126][531]LogSlate: Took 0.000932 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.11-08.19.30:884][691]LogSlate: Window 'Message Log' being destroyed
+[2021.06.11-08.19.30:895][691]LogSlate: Window 'Message Log' being destroyed
+[2021.06.11-08.19.31:978][754]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.06.11-08.19.32:898][807]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.06.11-08.19.33:056][817]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.06.11-08.19.33:380][836]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.06.11-08.19.33:810][862]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.06.11-08.19.34:596][909]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.06.11-08.19.34:715][916]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.06.11-08.19.34:805][921]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.06.11-08.19.34:888][926]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.06.11-08.19.35:053][936]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.11-08.19.35:370][955]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.11-08.19.35:536][965]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.06.11-08.19.39:999][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (P_Mur_deux_côtés28)
+[2021.06.11-08.20.05:038][937]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Coin_N.T_Coin_N
+[2021.06.11-08.20.08:619][140]LogSlate: Window 'T_Coin_N' being destroyed
+[2021.06.11-08.20.08:634][140]LogSlate: Window 'T_Coin_N' being destroyed
+[2021.06.11-08.20.09:682][199]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Coin_O.T_Coin_O
+[2021.06.11-08.20.13:744][430]LogSlate: Window 'T_Coin_O' being destroyed
+[2021.06.11-08.20.13:765][430]LogSlate: Window 'T_Coin_O' being destroyed
+[2021.06.11-08.20.14:840][491]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Colonne_A.T_Colonne_A
+[2021.06.11-08.20.21:159][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Colonne_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Colonne_A.uasset" SILENT=true
+[2021.06.11-08.20.21:192][846]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Colonne_A73D948F34234CC5F7B8610A186601A2D.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Colonne_A.uasset'
+[2021.06.11-08.20.21:202][846]AssetCheck: New page: Asset Save: T_Colonne_A
+[2021.06.11-08.20.21:202][846]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Colonne_A.T_Colonne_A
+[2021.06.11-08.20.22:414][916]LogSlate: Window 'T_Colonne_A' being destroyed
+[2021.06.11-08.20.22:421][916]LogSlate: Window 'T_Colonne_A' being destroyed
+[2021.06.11-08.20.23:492][977]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Coin_O.T_Coin_O
+[2021.06.11-08.20.25:068][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Coin_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Coin_O.uasset" SILENT=true
+[2021.06.11-08.20.25:266][ 53]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Coin_OD211F8D04D7F9051FEE5FD9EFF5C861C.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Coin_O.uasset'
+[2021.06.11-08.20.25:277][ 53]AssetCheck: New page: Asset Save: T_Coin_O
+[2021.06.11-08.20.25:277][ 53]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Coin_O.T_Coin_O
+[2021.06.11-08.20.26:221][107]LogSlate: Window 'T_Coin_O' being destroyed
+[2021.06.11-08.20.26:231][107]LogSlate: Window 'T_Coin_O' being destroyed
+[2021.06.11-08.20.27:130][157]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Coin_N.T_Coin_N
+[2021.06.11-08.20.28:490][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Coin_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Coin_N.uasset" SILENT=true
+[2021.06.11-08.20.28:669][219]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Coin_N2ACD8EAB484A5A2011BE2F8AE392F9EA.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Coin_N.uasset'
+[2021.06.11-08.20.28:681][219]AssetCheck: New page: Asset Save: T_Coin_N
+[2021.06.11-08.20.28:681][219]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Coin_N.T_Coin_N
+[2021.06.11-08.20.29:189][248]LogSlate: Window 'T_Coin_N' being destroyed
+[2021.06.11-08.20.29:195][248]LogSlate: Window 'T_Coin_N' being destroyed
+[2021.06.11-08.20.31:081][357]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Colonne_N.T_Colonne_N
+[2021.06.11-08.20.35:860][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Colonne_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Colonne_N.uasset" SILENT=true
+[2021.06.11-08.20.35:911][618]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Colonne_N56BABDAE4653B8FA533989833AA5C491.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Colonne_N.uasset'
+[2021.06.11-08.20.35:922][618]AssetCheck: New page: Asset Save: T_Colonne_N
+[2021.06.11-08.20.35:922][618]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Colonne_N.T_Colonne_N
+[2021.06.11-08.20.37:085][685]LogSlate: Window 'T_Colonne_N' being destroyed
+[2021.06.11-08.20.37:092][685]LogSlate: Window 'T_Colonne_N' being destroyed
+[2021.06.11-08.20.38:176][747]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Colonne_O.T_Colonne_O
+[2021.06.11-08.20.41:631][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Colonne_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Colonne_O.uasset" SILENT=true
+[2021.06.11-08.20.41:646][933]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Colonne_OCA215B954184A55B63432EA730B2BB3C.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Colonne_O.uasset'
+[2021.06.11-08.20.41:656][933]AssetCheck: New page: Asset Save: T_Colonne_O
+[2021.06.11-08.20.41:656][933]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Colonne_O.T_Colonne_O
+[2021.06.11-08.20.44:482][101]LogSlate: Window 'T_Colonne_O' being destroyed
+[2021.06.11-08.20.44:488][101]LogSlate: Window 'T_Colonne_O' being destroyed
+[2021.06.11-08.20.45:592][165]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Commode_A.T_Commode_A
+[2021.06.11-08.20.51:923][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Commode_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Commode_A.uasset" SILENT=true
+[2021.06.11-08.20.52:211][525]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Commode_A13923C3C49386A92A93CD192EAC26517.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Commode_A.uasset'
+[2021.06.11-08.20.52:226][525]AssetCheck: New page: Asset Save: T_Commode_A
+[2021.06.11-08.20.52:226][525]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Commode_A.T_Commode_A
+[2021.06.11-08.20.53:589][605]LogSlate: Window 'T_Commode_A' being destroyed
+[2021.06.11-08.20.53:596][605]LogSlate: Window 'T_Commode_A' being destroyed
+[2021.06.11-08.20.54:505][657]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Commode_N.T_Commode_N
+[2021.06.11-08.21.03:728][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Commode_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Commode_N.uasset" SILENT=true
+[2021.06.11-08.21.03:931][189]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Commode_N1BC5E0504112D92F0ACD1CB004038595.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Commode_N.uasset'
+[2021.06.11-08.21.03:943][189]AssetCheck: New page: Asset Save: T_Commode_N
+[2021.06.11-08.21.03:943][189]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Commode_N.T_Commode_N
+[2021.06.11-08.21.05:116][256]LogSlate: Window 'T_Commode_N' being destroyed
+[2021.06.11-08.21.05:129][256]LogSlate: Window 'T_Commode_N' being destroyed
+[2021.06.11-08.21.06:136][314]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Commode_O.T_Commode_O
+[2021.06.11-08.21.09:893][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Commode_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Commode_O.uasset" SILENT=true
+[2021.06.11-08.21.10:010][517]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Commode_OBA4F522143B2339AD687D78AC131198F.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Commode_O.uasset'
+[2021.06.11-08.21.10:021][517]AssetCheck: New page: Asset Save: T_Commode_O
+[2021.06.11-08.21.10:021][517]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Commode_O.T_Commode_O
+[2021.06.11-08.21.11:163][584]LogSlate: Window 'T_Commode_O' being destroyed
+[2021.06.11-08.21.11:169][584]LogSlate: Window 'T_Commode_O' being destroyed
+[2021.06.11-08.21.12:110][638]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Fusible_A.T_Fusible_A
+[2021.06.11-08.21.15:460][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Fusible_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Fusible_A.uasset" SILENT=true
+[2021.06.11-08.21.15:673][818]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Fusible_AA60352FC4CF99CB89C7277B0E4CDD6E3.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Fusible_A.uasset'
+[2021.06.11-08.21.15:682][818]AssetCheck: New page: Asset Save: T_Fusible_A
+[2021.06.11-08.21.15:682][818]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Fusible_A.T_Fusible_A
+[2021.06.11-08.21.16:657][874]LogSlate: Window 'T_Fusible_A' being destroyed
+[2021.06.11-08.21.16:664][874]LogSlate: Window 'T_Fusible_A' being destroyed
+[2021.06.11-08.21.17:481][920]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Fusible_N.T_Fusible_N
+[2021.06.11-08.21.20:746][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Fusible_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Fusible_N.uasset" SILENT=true
+[2021.06.11-08.21.20:931][ 96]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Fusible_NB7DB60884BB9CF165FCD69862C4C10A1.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Fusible_N.uasset'
+[2021.06.11-08.21.20:942][ 96]AssetCheck: New page: Asset Save: T_Fusible_N
+[2021.06.11-08.21.20:942][ 96]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Fusible_N.T_Fusible_N
+[2021.06.11-08.21.22:020][159]LogSlate: Window 'T_Fusible_N' being destroyed
+[2021.06.11-08.21.22:028][159]LogSlate: Window 'T_Fusible_N' being destroyed
+[2021.06.11-08.21.25:321][353]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Fusible_O.T_Fusible_O
+[2021.06.11-08.21.29:069][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Fusible_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Fusible_O.uasset" SILENT=true
+[2021.06.11-08.21.29:351][555]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Fusible_O074181D347FCA624578AE19E8D1DEE60.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Fusible_O.uasset'
+[2021.06.11-08.21.29:362][555]AssetCheck: New page: Asset Save: T_Fusible_O
+[2021.06.11-08.21.29:362][555]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Fusible_O.T_Fusible_O
+[2021.06.11-08.21.30:302][609]LogSlate: Window 'T_Fusible_O' being destroyed
+[2021.06.11-08.21.30:308][609]LogSlate: Window 'T_Fusible_O' being destroyed
+[2021.06.11-08.21.32:396][730]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Generateur_A.T_Generateur_A
+[2021.06.11-08.21.35:992][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Generateur_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Generateur_A.uasset" SILENT=true
+[2021.06.11-08.21.36:288][926]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Generateur_A5EC722214593A18D957D7FA7E19156E1.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Generateur_A.uasset'
+[2021.06.11-08.21.36:304][926]AssetCheck: New page: Asset Save: T_Generateur_A
+[2021.06.11-08.21.36:304][926]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Generateur_A.T_Generateur_A
+[2021.06.11-08.21.37:988][ 25]LogSlate: Window 'T_Generateur_A' being destroyed
+[2021.06.11-08.21.37:997][ 25]LogSlate: Window 'T_Generateur_A' being destroyed
+[2021.06.11-08.21.39:213][ 95]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Generateur_N.T_Generateur_N
+[2021.06.11-08.21.43:068][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Generateur_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Generateur_N.uasset" SILENT=true
+[2021.06.11-08.21.43:342][303]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Generateur_N79DF092A473C91B254AA638543FD757C.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Generateur_N.uasset'
+[2021.06.11-08.21.43:352][303]AssetCheck: New page: Asset Save: T_Generateur_N
+[2021.06.11-08.21.43:352][303]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Generateur_N.T_Generateur_N
+[2021.06.11-08.21.46:184][470]LogSlate: Window 'T_Generateur_N' being destroyed
+[2021.06.11-08.21.46:190][470]LogSlate: Window 'T_Generateur_N' being destroyed
+[2021.06.11-08.21.47:113][522]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Generateur_O.T_Generateur_O
+[2021.06.11-08.21.51:233][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Generateur_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Generateur_O.uasset" SILENT=true
+[2021.06.11-08.21.51:599][747]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Generateur_O5E2B2BBA48C76CDA00D00483C98F616D.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Generateur_O.uasset'
+[2021.06.11-08.21.51:609][747]AssetCheck: New page: Asset Save: T_Generateur_O
+[2021.06.11-08.21.51:610][747]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Generateur_O.T_Generateur_O
+[2021.06.11-08.21.52:816][816]LogSlate: Window 'T_Generateur_O' being destroyed
+[2021.06.11-08.21.52:823][816]LogSlate: Window 'T_Generateur_O' being destroyed
+[2021.06.11-08.21.53:635][862]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Ground_A.T_Ground_A
+[2021.06.11-08.21.57:473][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Ground_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Ground_A.uasset" SILENT=true
+[2021.06.11-08.21.57:503][ 68]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Ground_A0768092B48503BFBC4EA4CA8544C2DE4.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Ground_A.uasset'
+[2021.06.11-08.21.57:514][ 68]AssetCheck: New page: Asset Save: T_Ground_A
+[2021.06.11-08.21.57:514][ 68]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Ground_A.T_Ground_A
+[2021.06.11-08.21.58:674][136]LogSlate: Window 'T_Ground_A' being destroyed
+[2021.06.11-08.21.58:681][136]LogSlate: Window 'T_Ground_A' being destroyed
+[2021.06.11-08.21.59:681][193]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Ground_N.T_Ground_N
+[2021.06.11-08.22.04:264][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Ground_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Ground_N.uasset" SILENT=true
+[2021.06.11-08.22.04:278][447]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Ground_NE29E56844BDFCCE23D508CB452705224.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Ground_N.uasset'
+[2021.06.11-08.22.04:287][447]AssetCheck: New page: Asset Save: T_Ground_N
+[2021.06.11-08.22.04:288][447]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Ground_N.T_Ground_N
+[2021.06.11-08.22.05:418][512]LogSlate: Window 'T_Ground_N' being destroyed
+[2021.06.11-08.22.05:425][512]LogSlate: Window 'T_Ground_N' being destroyed
+[2021.06.11-08.22.06:403][568]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Ground_O.T_Ground_O
+[2021.06.11-08.22.10:560][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Ground_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Ground_O.uasset" SILENT=true
+[2021.06.11-08.22.10:563][796]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Ground_O522C447D4645936F0C19B09D02D566D4.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Ground_O.uasset'
+[2021.06.11-08.22.10:578][796]AssetCheck: New page: Asset Save: T_Ground_O
+[2021.06.11-08.22.10:578][796]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Ground_O.T_Ground_O
+[2021.06.11-08.22.11:735][862]LogSlate: Window 'T_Ground_O' being destroyed
+[2021.06.11-08.22.11:741][862]LogSlate: Window 'T_Ground_O' being destroyed
+[2021.06.11-08.22.12:542][908]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Keys_A.T_Keys_A
+[2021.06.11-08.22.16:433][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Keys_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Keys_A.uasset" SILENT=true
+[2021.06.11-08.22.16:695][120]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Keys_AD30A3C264EFF115595347DBFD2CBEA97.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Keys_A.uasset'
+[2021.06.11-08.22.16:710][120]AssetCheck: New page: Asset Save: T_Keys_A
+[2021.06.11-08.22.16:710][120]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Keys_A.T_Keys_A
+[2021.06.11-08.22.18:828][245]LogSlate: Window 'T_Keys_A' being destroyed
+[2021.06.11-08.22.18:836][245]LogSlate: Window 'T_Keys_A' being destroyed
+[2021.06.11-08.22.19:644][291]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Keys_N.T_Keys_N
+[2021.06.11-08.22.22:986][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Keys_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Keys_N.uasset" SILENT=true
+[2021.06.11-08.22.23:237][471]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Keys_NF9713CF14AAB26C953753AA25AC8824A.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Keys_N.uasset'
+[2021.06.11-08.22.23:248][471]AssetCheck: New page: Asset Save: T_Keys_N
+[2021.06.11-08.22.23:248][471]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Keys_N.T_Keys_N
+[2021.06.11-08.22.24:258][529]LogSlate: Window 'T_Keys_N' being destroyed
+[2021.06.11-08.22.24:266][529]LogSlate: Window 'T_Keys_N' being destroyed
+[2021.06.11-08.22.24:984][570]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Keys_O.T_Keys_O
+[2021.06.11-08.22.51:670][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Keys_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Keys_O.uasset" SILENT=true
+[2021.06.11-08.22.52:000][149]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Keys_O09BC9836404ACEC04ABE95B18EC5571A.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Keys_O.uasset'
+[2021.06.11-08.22.52:013][149]AssetCheck: New page: Asset Save: T_Keys_O
+[2021.06.11-08.22.52:013][149]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Keys_O.T_Keys_O
+[2021.06.11-08.22.53:090][212]LogSlate: Window 'T_Keys_O' being destroyed
+[2021.06.11-08.22.53:096][212]LogSlate: Window 'T_Keys_O' being destroyed
+[2021.06.11-08.22.56:269][395]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Lampe_Mur_A.T_Lampe_Mur_A
+[2021.06.11-08.23.02:359][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Lampe_Mur_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Mur_A.uasset" SILENT=true
+[2021.06.11-08.23.02:559][739]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Lampe_Mur_A3129B4BE420376640250A884AC1967F1.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Mur_A.uasset'
+[2021.06.11-08.23.02:569][739]AssetCheck: New page: Asset Save: T_Lampe_Mur_A
+[2021.06.11-08.23.02:569][739]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Lampe_Mur_A.T_Lampe_Mur_A
+[2021.06.11-08.23.03:715][805]LogSlate: Window 'T_Lampe_Mur_A' being destroyed
+[2021.06.11-08.23.03:724][805]LogSlate: Window 'T_Lampe_Mur_A' being destroyed
+[2021.06.11-08.23.04:732][861]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Lampe_Mur_N.T_Lampe_Mur_N
+[2021.06.11-08.23.15:406][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Lampe_Mur_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Mur_N.uasset" SILENT=true
+[2021.06.11-08.23.15:601][231]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Lampe_Mur_N97FE1B7E4A6E46496292B19411BB5901.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Mur_N.uasset'
+[2021.06.11-08.23.15:612][231]AssetCheck: New page: Asset Save: T_Lampe_Mur_N
+[2021.06.11-08.23.15:613][231]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Lampe_Mur_N.T_Lampe_Mur_N
+[2021.06.11-08.23.16:272][269]LogSlate: Window 'T_Lampe_Mur_N' being destroyed
+[2021.06.11-08.23.16:284][269]LogSlate: Window 'T_Lampe_Mur_N' being destroyed
+[2021.06.11-08.23.17:321][329]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Lampe_Mur_O.T_Lampe_Mur_O
+[2021.06.11-08.23.21:078][541]LogSlate: Window 'T_Lampe_Mur_O' being destroyed
+[2021.06.11-08.23.21:097][541]LogSlate: Window 'T_Lampe_Mur_O' being destroyed
+[2021.06.11-08.23.22:076][597]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Lampe_Plafond_A.T_Lampe_Plafond_A
+[2021.06.11-08.23.26:047][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Lampe_Plafond_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Plafond_A.uasset" SILENT=true
+[2021.06.11-08.23.26:206][812]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Lampe_Plafond_AA4AB14C84293FB22A655AD879AEE1004.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Plafond_A.uasset'
+[2021.06.11-08.23.26:216][812]AssetCheck: New page: Asset Save: T_Lampe_Plafond_A
+[2021.06.11-08.23.26:216][812]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Lampe_Plafond_A.T_Lampe_Plafond_A
+[2021.06.11-08.23.27:227][871]LogSlate: Window 'T_Lampe_Plafond_A' being destroyed
+[2021.06.11-08.23.27:232][871]LogSlate: Window 'T_Lampe_Plafond_A' being destroyed
+[2021.06.11-08.23.28:046][917]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Lampe_Mur_O.T_Lampe_Mur_O
+[2021.06.11-08.23.30:412][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Lampe_Mur_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Mur_O.uasset" SILENT=true
+[2021.06.11-08.23.30:632][ 43]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Lampe_Mur_O624C73D941F588371327D3959CA72DD5.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Mur_O.uasset'
+[2021.06.11-08.23.30:642][ 43]AssetCheck: New page: Asset Save: T_Lampe_Mur_O
+[2021.06.11-08.23.30:642][ 43]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Lampe_Mur_O.T_Lampe_Mur_O
+[2021.06.11-08.23.31:661][101]LogSlate: Window 'T_Lampe_Mur_O' being destroyed
+[2021.06.11-08.23.31:667][101]LogSlate: Window 'T_Lampe_Mur_O' being destroyed
+[2021.06.11-08.23.32:775][164]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Lampe_Mur_N.T_Lampe_Mur_N
+[2021.06.11-08.23.33:902][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Lampe_Mur_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Mur_N.uasset" SILENT=true
+[2021.06.11-08.23.33:925][215]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Lampe_Mur_NCD0C1E8D434CAE060133A9AD78D0A226.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Mur_N.uasset'
+[2021.06.11-08.23.33:936][215]AssetCheck: New page: Asset Save: T_Lampe_Mur_N
+[2021.06.11-08.23.33:936][215]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Lampe_Mur_N.T_Lampe_Mur_N
+[2021.06.11-08.23.34:921][274]LogSlate: Window 'T_Lampe_Mur_N' being destroyed
+[2021.06.11-08.23.34:927][274]LogSlate: Window 'T_Lampe_Mur_N' being destroyed
+[2021.06.11-08.23.35:677][316]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Lampe_Plafond_O.T_Lampe_Plafond_O
+[2021.06.11-08.23.39:647][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Lampe_Plafond_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Plafond_O.uasset" SILENT=true
+[2021.06.11-08.23.39:831][533]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Lampe_Plafond_OC0492F1242078982ADD2A69776988B37.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Lampe_Plafond_O.uasset'
+[2021.06.11-08.23.39:841][533]AssetCheck: New page: Asset Save: T_Lampe_Plafond_O
+[2021.06.11-08.23.39:841][533]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Lampe_Plafond_O.T_Lampe_Plafond_O
+[2021.06.11-08.23.40:867][593]LogSlate: Window 'T_Lampe_Plafond_O' being destroyed
+[2021.06.11-08.23.40:876][593]LogSlate: Window 'T_Lampe_Plafond_O' being destroyed
+[2021.06.11-08.23.41:663][638]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Library_A.T_Library_A
+[2021.06.11-08.23.45:027][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Library_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Library_A.uasset" SILENT=true
+[2021.06.11-08.23.45:266][818]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Library_A3AEB093C476D442D0AFC1CA93B21B5A7.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Library_A.uasset'
+[2021.06.11-08.23.45:277][818]AssetCheck: New page: Asset Save: T_Library_A
+[2021.06.11-08.23.45:277][818]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Library_A.T_Library_A
+[2021.06.11-08.23.46:322][879]LogSlate: Window 'T_Library_A' being destroyed
+[2021.06.11-08.23.46:330][879]LogSlate: Window 'T_Library_A' being destroyed
+[2021.06.11-08.23.47:072][921]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Library_N.T_Library_N
+[2021.06.11-08.23.51:033][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Library_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Library_N.uasset" SILENT=true
+[2021.06.11-08.23.51:110][137]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Library_NC60C6D364EB3A4A78D45F8AE32EB20A3.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Library_N.uasset'
+[2021.06.11-08.23.51:120][137]AssetCheck: New page: Asset Save: T_Library_N
+[2021.06.11-08.23.51:120][137]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Library_N.T_Library_N
+[2021.06.11-08.23.52:155][197]LogSlate: Window 'T_Library_N' being destroyed
+[2021.06.11-08.23.52:161][197]LogSlate: Window 'T_Library_N' being destroyed
+[2021.06.11-08.23.53:191][237]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Library_O.T_Library_O
+[2021.06.11-08.23.58:097][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Library_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Library_O.uasset" SILENT=true
+[2021.06.11-08.23.58:267][487]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Library_O571848EB4AAAD7B3EB3153BF9976083E.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Library_O.uasset'
+[2021.06.11-08.23.58:277][487]AssetCheck: New page: Asset Save: T_Library_O
+[2021.06.11-08.23.58:277][487]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Library_O.T_Library_O
+[2021.06.11-08.23.59:361][549]LogSlate: Window 'T_Library_O' being destroyed
+[2021.06.11-08.23.59:371][549]LogSlate: Window 'T_Library_O' being destroyed
+[2021.06.11-08.24.00:312][602]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Manche_Levier_A.T_Manche_Levier_A
+[2021.06.11-08.24.04:985][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Manche_Levier_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Manche_Levier_A.uasset" SILENT=true
+[2021.06.11-08.24.05:086][860]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Manche_Levier_AB614BB824F8B79364FF4BCBE984454B4.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Manche_Levier_A.uasset'
+[2021.06.11-08.24.05:097][860]AssetCheck: New page: Asset Save: T_Manche_Levier_A
+[2021.06.11-08.24.05:097][860]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Manche_Levier_A.T_Manche_Levier_A
+[2021.06.11-08.24.05:912][906]LogSlate: Window 'T_Manche_Levier_A' being destroyed
+[2021.06.11-08.24.05:920][906]LogSlate: Window 'T_Manche_Levier_A' being destroyed
+[2021.06.11-08.24.07:075][971]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Manche_Levier_N.T_Manche_Levier_N
+[2021.06.11-08.24.10:843][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Manche_Levier_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Manche_Levier_N.uasset" SILENT=true
+[2021.06.11-08.24.10:955][174]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Manche_Levier_N7B8FA0EE42E8A78693B15EBFD4671458.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Manche_Levier_N.uasset'
+[2021.06.11-08.24.10:965][174]AssetCheck: New page: Asset Save: T_Manche_Levier_N
+[2021.06.11-08.24.10:965][174]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Manche_Levier_N.T_Manche_Levier_N
+[2021.06.11-08.24.11:959][232]LogSlate: Window 'T_Manche_Levier_N' being destroyed
+[2021.06.11-08.24.11:967][232]LogSlate: Window 'T_Manche_Levier_N' being destroyed
+[2021.06.11-08.24.13:024][292]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Manche_Levier_O.T_Manche_Levier_O
+[2021.06.11-08.24.15:629][403]LogTexture: Display: Building textures: T_Manche_Levier_O (AutoDXT, 2048X2048)
+[2021.06.11-08.24.17:348][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Manche_Levier_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Manche_Levier_O.uasset" SILENT=true
+[2021.06.11-08.24.17:465][492]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Manche_Levier_O59131B254E2AF570C339BCBFC9B74554.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Manche_Levier_O.uasset'
+[2021.06.11-08.24.17:477][492]AssetCheck: New page: Asset Save: T_Manche_Levier_O
+[2021.06.11-08.24.17:477][492]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Manche_Levier_O.T_Manche_Levier_O
+[2021.06.11-08.24.19:262][597]LogSlate: Window 'T_Manche_Levier_O' being destroyed
+[2021.06.11-08.24.19:269][597]LogSlate: Window 'T_Manche_Levier_O' being destroyed
+[2021.06.11-08.24.20:220][651]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Mur_2_Face_A.T_Mur_2_Face_A
+[2021.06.11-08.24.21:985][748]LogSlate: Window 'T_Mur_2_Face_A' being destroyed
+[2021.06.11-08.24.22:002][748]LogSlate: Window 'T_Mur_2_Face_A' being destroyed
+[2021.06.11-08.24.24:051][867]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Mur_2_Face_A.T_Mur_2_Face_A
+[2021.06.11-08.24.27:901][ 39]LogTexture: Display: Building textures: T_Mur_2_Face_A (AutoDXT, 2048X2048)
+[2021.06.11-08.24.29:854][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Mur_2_Face_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Mur_2_Face_A.uasset" SILENT=true
+[2021.06.11-08.24.30:073][139]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Mur_2_Face_AD2C8C04549B28D78A4B450B35FC3A389.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Mur_2_Face_A.uasset'
+[2021.06.11-08.24.30:087][139]AssetCheck: New page: Asset Save: T_Mur_2_Face_A
+[2021.06.11-08.24.30:087][139]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Mur_2_Face_A.T_Mur_2_Face_A
+[2021.06.11-08.24.30:985][191]LogSlate: Window 'T_Mur_2_Face_A' being destroyed
+[2021.06.11-08.24.30:992][191]LogSlate: Window 'T_Mur_2_Face_A' being destroyed
+[2021.06.11-08.24.34:229][381]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Mur_2_Face_N.T_Mur_2_Face_N
+[2021.06.11-08.24.37:106][522]LogTexture: Display: Building textures: T_Mur_2_Face_N (BC5, 2048X2048)
+[2021.06.11-08.24.39:546][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Mur_2_Face_N" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Mur_2_Face_N.uasset" SILENT=true
+[2021.06.11-08.24.39:712][655]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Mur_2_Face_N853C16E74539EC7A768D0F8E07762E77.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Mur_2_Face_N.uasset'
+[2021.06.11-08.24.39:766][655]AssetCheck: New page: Asset Save: T_Mur_2_Face_N
+[2021.06.11-08.24.39:766][655]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Mur_2_Face_N.T_Mur_2_Face_N
+[2021.06.11-08.24.40:917][721]LogSlate: Window 'T_Mur_2_Face_N' being destroyed
+[2021.06.11-08.24.40:927][721]LogSlate: Window 'T_Mur_2_Face_N' being destroyed
+[2021.06.11-08.24.41:767][765]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Mur_2_Face_O.T_Mur_2_Face_O
+[2021.06.11-08.24.44:458][905]LogTexture: Display: Building textures: T_Mur_2_Face_O (AutoDXT, 2048X2048)
+[2021.06.11-08.24.46:817][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Mur_2_Face_O" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Mur_2_Face_O.uasset" SILENT=true
+[2021.06.11-08.24.46:972][ 32]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Mur_2_Face_O4ABF722C490701765DA8B7ADFE57DCC1.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Mur_2_Face_O.uasset'
+[2021.06.11-08.24.46:983][ 32]AssetCheck: New page: Asset Save: T_Mur_2_Face_O
+[2021.06.11-08.24.46:983][ 32]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Mur_2_Face_O.T_Mur_2_Face_O
+[2021.06.11-08.24.48:015][ 91]LogSlate: Window 'T_Mur_2_Face_O' being destroyed
+[2021.06.11-08.24.48:023][ 91]LogSlate: Window 'T_Mur_2_Face_O' being destroyed
+[2021.06.11-08.24.48:949][143]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/03_PROPS/Texture/T_Mur_A.T_Mur_A
+[2021.06.11-08.24.51:008][239]LogTexture: Display: Building textures: T_Mur_A (AutoDXT, 2048X2048)
+[2021.06.11-08.24.52:140][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/03_PROPS/Texture/T_Mur_A" FILE="D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Mur_A.uasset" SILENT=true
+[2021.06.11-08.24.52:295][290]LogSavePackage: Moving 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Saved/T_Mur_AAAA05E4A4DF367A19C6F8494DDD2BDF0.tmp' to 'D:/Users/33783/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Texture/T_Mur_A.uasset'
+[2021.06.11-08.24.52:306][290]AssetCheck: New page: Asset Save: T_Mur_A
+[2021.06.11-08.24.52:306][290]LogContentValidation: Display: Validating Texture2D /Game/03_PROPS/Texture/T_Mur_A.T_Mur_A
+[2021.06.11-08.24.52:457][296]LogD3D11RHI: Error: SwapChain->ResizeBuffers(0, SizeX, SizeY, RenderTargetFormat, SwapChainFlags) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:295 
+ with error E_OUTOFMEMORY, 
+ (Size=512x256 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)) -> (Size=916x256 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018))
+[2021.06.11-08.24.53:211][296]LogSlate: Window 'T_Mur_A' being destroyed
+[2021.06.11-08.24.53:217][296]LogSlate: Window 'T_Mur_A' being destroyed
+[2021.06.11-08.25.05:650][296]LogRHI: Error: Present Fail Count 1
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SyncInterval 0
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.OutputWindow 00000000001B0BD0
+[2021.06.11-08.25.05:650][296]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.06.11-08.25.05:651][296]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.06.11-08.25.05:651][296]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     77 = 16384 KB (2D 4096x2048 PF_ShadowDepth) WholeSceneShadowmap unused(2374)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     76 = 16384 KB (2D 4096x2048 PF_ShadowDepth) WholeSceneShadowmap unused(2374)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     78 = 16384 KB (2D 4096x2048 PF_ShadowDepth) WholeSceneShadowmap unused(2374)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     72 = 12288 KB (2D 3072x2048 PF_ShadowDepth) MobileCSMAndSpotLightShadowmap unused(16150)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     89 = 12288 KB (Cube 1024 PF_ShadowDepth) CubeShadowDepthZ
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     90 = 12288 KB (Cube 1024 PF_ShadowDepth) CubeShadowDepthZ unused(15706)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     71 = 10240 KB (2D 2560x2048 PF_ShadowDepth) MobileCSMAndSpotLightShadowmap unused(16152)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     70 = 8192 KB (2D 2048x2048 PF_ShadowDepth) CachedShadowDepthMap unused(16149)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     75 = 7680 KB (2D 3840x1024 PF_ShadowDepth) MobileCSMAndSpotLightShadowmap unused(1)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     73 = 6144 KB (2D 3072x1024 PF_ShadowDepth) MobileCSMAndSpotLightShadowmap unused(16149)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     52 = 5632 KB (2D 2816x1024 PF_ShadowDepth) MobileCSMAndSpotLightShadowmap unused(16012)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     69 = 4096 KB (2D 2048x1024 PF_ShadowDepth) MobileCSMAndSpotLightShadowmap unused(16221)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     84 = 2494 KB (2D 840x380 PF_FloatRGBA RT UAV VRam) SceneColorDeferred unused(2374) VRamInKB(Start/Size):<NONE>
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     42 = 2494 KB (2D 840x380 PF_FloatRGBA RT UAV) LightAccumulation
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     19 = 2494 KB (2D 840x380 PF_FloatRGBA RT VRam) SceneColorMobile VRamInKB(Start/Size):<NONE>
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     74 = 2048 KB (2D 1024x1024 PF_ShadowDepth) CachedShadowDepthMap
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     63 = 2048 KB (2D 1024x1024 PF_ShadowDepth) CachedShadowDepthMap
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     62 = 2048 KB (2D 1024x1024 PF_ShadowDepth) CachedShadowDepthMap
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     36 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     38 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     40 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     37 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     39 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     41 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     20 = 1559 KB (2D 840x380 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     49 = 1559 KB (2D 840x380 PF_DepthStencil) EditorPrimitivesDepth unused(1)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     23 = 1559 KB (2D 840x380 PF_DepthStencil) SelectionOutline unused(1)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     79 = 1247 KB (2D 840x380 PF_A2B10G10R10 RT) GBufferA unused(2374)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     81 = 1247 KB (2D 840x380 PF_B8G8R8A8 RT sRGB) GBufferC unused(2374)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     80 = 1247 KB (2D 840x380 PF_B8G8R8A8 RT VRam) GBufferB unused(2374) VRamInKB(Start/Size):<NONE>
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     48 = 1247 KB (2D 840x380 PF_B8G8R8A8 RT VRam) SelectionOutlineColor unused(1) VRamInKB(Start/Size):<NONE>
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     85 = 1247 KB (2D 840x380 PF_B8G8R8A8 RT VRam) ShadowMaskTexture unused(2374) VRamInKB(Start/Size):<NONE>
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     22 = 1247 KB (2D 840x380 PF_B8G8R8A8 RT) EditorPrimitives unused(1)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     50 = 1247 KB (2D 840x380 PF_B8G8R8A8 RT) EditorPrimitivesColor unused(1)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     82 = 1247 KB (2D 840x380 PF_B8G8R8A8 RT) GBufferD unused(2374)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     83 = 1247 KB (2D 840x380 PF_B8G8R8A8 RT) GBufferE unused(2374)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     65 = 1247 KB (2D 840x380 PF_B8G8R8A8 RT) HitProxy unused(193)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     44 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     28 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     34 = 780 KB (2D 420x190 PF_DepthStencil) SmallDepthZ
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     43 = 624 KB (2D 840x190 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     68 = 512 KB (2D 512x512 PF_ShadowDepth) CachedShadowDepthMap
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     67 = 512 KB (2D 512x512 PF_ShadowDepth) CachedShadowDepthMap
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     53 = 512 KB (2D 512x512 PF_ShadowDepth) CachedShadowDepthMap unused(16148)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     64 = 512 KB (2D 512x512 PF_ShadowDepth) CachedShadowDepthMap unused(16151)
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     45 = 512 KB (3D 64x64x16 PF_FloatRGBA UAV) HairLUT
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     46 = 512 KB (3D 64x64x16 PF_FloatRGBA UAV) HairLUT
+[2021.06.11-08.25.05:651][296]LogConsoleResponse:     86 = 312 KB (2D 420x190 PF_FloatRGB RT VRam) HalfResolutionSceneColor unused(2374) VRamInKB(Start/Size):<NONE>
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     35 = 312 KB (2D 840x380 PF_G8 RT UAV) ScreenSpaceAO
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     21 = 128 KB (2D 1024x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     59 = 128 KB (2D 256x256 PF_ShadowDepth) CachedShadowDepthMap
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     61 = 128 KB (2D 256x256 PF_ShadowDepth) CachedShadowDepthMap
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     66 = 128 KB (2D 256x256 PF_ShadowDepth) CachedShadowDepthMap
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     60 = 128 KB (2D 256x256 PF_ShadowDepth) CachedShadowDepthMap
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     87 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUT unused(2374) VRamInKB(Start/Size):<NONE>
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     11 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     26 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     25 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     51 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     54 = 32 KB (2D 128x128 PF_ShadowDepth) CachedShadowDepthMap
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     56 = 32 KB (2D 128x128 PF_ShadowDepth) CachedShadowDepthMap
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     57 = 32 KB (2D 128x128 PF_ShadowDepth) CachedShadowDepthMap unused(16363)
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     58 = 32 KB (2D 128x128 PF_ShadowDepth) CachedShadowDepthMap unused(16530)
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     55 = 32 KB (2D 128x128 PF_ShadowDepth) CachedShadowDepthMap unused(16536)
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     32 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     17 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     33 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     47 = 16 KB (2D 64x64 PF_R32_FLOAT UAV) HairCoverageLUT
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     29 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     30 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     18 = 8 KB (3D 16x16x16 PF_R16F) GTAOPreIntegrated
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     15 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     88 = 1 KB (2D 1x1 PF_FloatRGBA RT) ReflectionBrightness unused(15865)
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     14 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     16 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     31 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     24 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2021.06.11-08.25.05:652][296]LogConsoleResponse:     27 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2021.06.11-08.25.05:652][296]LogConsoleResponse: 
+[2021.06.11-08.25.05:652][296]LogConsoleResponse: Pool: 45/177 MB (referenced/allocated)
+[2021.06.11-08.25.05:652][296]Cmd: rhi.DumpMemory
+[2021.06.11-08.25.05:668][296]RHI resource memory (not tracked by our allocator)
+[2021.06.11-08.25.05:669][296]               0  -  Pixel buffer memory - STAT_PixelBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.06.11-08.25.05:669][296]         1986744  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.06.11-08.25.05:669][296]         4240120  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.06.11-08.25.05:669][296]         5230774  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.06.11-08.25.05:669][296]         2143056  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.06.11-08.25.05:669][296]        26279940  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2021.06.11-08.25.05:669][296]          180300  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2021.06.11-08.25.05:669][296]       289555213  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2021.06.11-08.25.05:669][296]        27393984  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2021.06.11-08.25.05:669][296]        13762564  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2021.06.11-08.25.05:669][296]       780847045  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2021.06.11-08.25.05:670][296]1098.270MB total
+[2021.06.11-08.25.05:670][296]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.06.11-08.25.05:670][296]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.06.11-08.25.05:679][296]Log file closed, 06/11/21 10:25:05
