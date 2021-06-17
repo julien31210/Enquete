@@ -1,4 +1,4 @@
-// PCH for D:\UnrealGames\UE_4.26\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h
+// PCH for C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\EngineSharedPCH.h
 #define IS_PROGRAM 0
 #define UE_GAME 1
 #define ENABLE_PGO_PROFILE 0
@@ -173,4 +173,4 @@
 #define AUDIOMIXER_API 
 #define TARGETPLATFORM_API 
 #define ANIMATIONCORE_API 
-#include "D:/UnrealGames/UE_4.26/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h"
+#include "C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h"
