@@ -1,5 +1,5 @@
-NDKROOT=C:\Users\PRETE Florian\AppData\Local\Android\Sdk\ndk\21.4.7075529
-ANDROID_HOME=C:\Users\PRETE Florian\AppData\Local\Android\Sdk
+NDKROOT=C:/Users/flori/AppData/Local/Android/Sdk/ndk/21.4.7075529
+ANDROID_HOME=C:/Users/flori/AppData/Local/Android/Sdk
 JAVA_HOME=C:\Program Files\Android\Android Studio\jre
 NDKVersion=android-21
 SDKVersion=android-30
@@ -69,6 +69,9 @@ bAllowPatchOBBFile=False
 bAllowOverflowOBBFiles=False
 bExtractNativeLibs=true
 bDisableVerifyOBBOnStartUp=True
+SDKPath=(Path="C:/Users/flori/AppData/Local/Android/Sdk")
+NDKPath=(Path="C:/Users/flori/AppData/Local/Android/Sdk/ndk/21.4.7075529")
+JavaPath=(Path="")
 Arch=-armv7
 GPUArch=
 GameDefaultMap=/Game/00_SCENE/04_MergegScene.04_MergegScene

@@ -2,9 +2,113 @@
 	"AssetInfoVersion": 1,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "90EB2896E0D8BD0779EAFED4FEF96C5F417B97B7",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C05BF21EC5B8872BBDC1DE63F199289CA62EDF5E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "609E1E16ABA485A263224FFB24C3F40294CB0240",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BF8DA73A05B5D9953CC46699A9264B471D955765",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3CCFB8D9BA178D1C4C577D014EB13408462F17C7",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A1F5FA23342A48848652035CE85B1101A563E1AE",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2FAB99929B3EC73AA25120D0C169A86106C646AA",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA3885BC748AB4EBA1559BA502BA01B9CD4B06F8",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "029D4BC8B4A004AD5B2F4FA798CBEF78DE315226",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "41184462543EAFBFF583AB956437D34FB0F0F322",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "970B708CB81CFD54D5184FB69CA1347A1617C5AD",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FF5E507496125896845FB5E695D536D1FF88FC91",
+			"Assets": [
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "71CF42C5254208C391A85A195B16246623D1EDEF",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "D32B024B592549D7B3651D4B0706199D82B023F7",
 			"Assets": [
 				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1E5A93A29182FAF7A29E58674031D39FE1573575",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BCB0303A719248CD5D337C8716CF729A449586EA",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D271ECEB705E8672A3F534CADBBF13C69672BDC0",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A2024644A094BA248829E467664A3AA1B8FBBBF6",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
 			]
 		},
 		{
@@ -45,6 +149,30 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E13FCEFAFFF9F97D0F3309E1B5C7E2229F4230F6",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B34DA352BE2E3BC76A3F16F0ED8E23B4FE61047D",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1607D68BADF65B7DB4FFB56DCE14A5B8B41B6FE1",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE296CDE9603A324EC93262AE342BC296FC0A875",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "A3FF1D2920BBCF76528397038E083A8C8F11A73D",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
@@ -69,253 +197,136 @@
 			]
 		},
 		{
-			"ShaderMapHash": "90EB2896E0D8BD0779EAFED4FEF96C5F417B97B7",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C05BF21EC5B8872BBDC1DE63F199289CA62EDF5E",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "609E1E16ABA485A263224FFB24C3F40294CB0240",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "BF8DA73A05B5D9953CC46699A9264B471D955765",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "3CCFB8D9BA178D1C4C577D014EB13408462F17C7",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
-				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A1F5FA23342A48848652035CE85B1101A563E1AE",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
-				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "029D4BC8B4A004AD5B2F4FA798CBEF78DE315226",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "2FAB99929B3EC73AA25120D0C169A86106C646AA",
-			"Assets": [
-				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "AA3885BC748AB4EBA1559BA502BA01B9CD4B06F8",
-			"Assets": [
-				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "41184462543EAFBFF583AB956437D34FB0F0F322",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "970B708CB81CFD54D5184FB69CA1347A1617C5AD",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FF5E507496125896845FB5E695D536D1FF88FC91",
-			"Assets": [
-				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "1E5A93A29182FAF7A29E58674031D39FE1573575",
-			"Assets": [
-				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "71CF42C5254208C391A85A195B16246623D1EDEF",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "D271ECEB705E8672A3F534CADBBF13C69672BDC0",
-			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B34DA352BE2E3BC76A3F16F0ED8E23B4FE61047D",
-			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "E13FCEFAFFF9F97D0F3309E1B5C7E2229F4230F6",
-			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A2024644A094BA248829E467664A3AA1B8FBBBF6",
-			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "BCB0303A719248CD5D337C8716CF729A449586EA",
-			"Assets": [
-				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "1607D68BADF65B7DB4FFB56DCE14A5B8B41B6FE1",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "CE296CDE9603A324EC93262AE342BC296FC0A875",
-			"Assets": [
-				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "BE318946A3147E67CEBE9D4BD696406C7D65B204",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "D47F2148EA0883DBDFE1FE885B444D0457E152A4",
+			"ShaderMapHash": "4D1B753E3CB4D2BA0409C94BDE997B1021D49CFE",
 			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/Note_Mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "99275F3670F1A153732F592A5E5E5FFF5C96DB5A",
-			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_MancheLevier.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FA6C0DC4CEA0CF86791A3256E16D7C39404AC621",
-			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_BaseLevier.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B473E4274C8C1F8B65D521345E9FBE15A2859719",
-			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_TuyauPorte.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Scotch.uasset"
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Tiroir.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "CEE08D0FD60D2913AB45E908404A3041070C4607",
 			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/Note_Mat_UI.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4640D090A550A5BA48111A859AC9B3FCBF9818E7",
-			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Porte.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_LampePlafond.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_LampeMural.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Canape.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Coin.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4D1B753E3CB4D2BA0409C94BDE997B1021D49CFE",
-			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Tiroir.uasset"
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/Note_Mat_UI.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "10257FAB9C445CA699A631C448116422569B14F6",
 			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Table.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_PorteVeranda.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_MurPorte.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_MurLong.uasset"
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Table.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_MurLong.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Horloge.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_PorteVeranda.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Journal.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_MurPorte.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "FCA8B0B04E5166AE514234EDFF0544E8C505F4C2",
+			"ShaderMapHash": "D47F2148EA0883DBDFE1FE885B444D0457E152A4",
 			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/05_VFX/FX_Gameplay/Steam_Particle_Material.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "BF47ECEFE8482005A89981BA59FBE5A2F964BA1C",
-			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Generator.uasset"
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/Note_Mat.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "6B8EF67F6535854020E745F867822AC36C62DAF6",
 			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Fusible.uasset"
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Fusible.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BF47ECEFE8482005A89981BA59FBE5A2F964BA1C",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Generator.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FCA8B0B04E5166AE514234EDFF0544E8C505F4C2",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/05_VFX/FX_Gameplay/Steam_Particle_Material.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4640D090A550A5BA48111A859AC9B3FCBF9818E7",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Porte.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Canape.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_LampePlafond.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_LampeMural.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Coin.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Cadre.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Tonneau.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "99275F3670F1A153732F592A5E5E5FFF5C96DB5A",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_MancheLevier.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B473E4274C8C1F8B65D521345E9FBE15A2859719",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Scotch.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_TuyauPorte.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C1C2F781733C54BE7BA6856C66758D956EA88763",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Keys.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Sac.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA6C0DC4CEA0CF86791A3256E16D7C39404AC621",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_BaseLevier.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "8AA6A0137D84DC2234AD91EE9D821761A645BDD3",
 			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Veranda.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Tuyaux_3.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Tuyaux_2.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_TuyauxCote_2.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Library.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "690D99B68C1852CB4658CF36DC1C762A78F64B88",
-			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Commode.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Mur.uasset",
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Mur2Faces.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "151C3EFE768B4C62A798447439B176EDA79C3361",
-			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Roof.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "19002C9D84EF004D1B52DCA571E09D2EE5A21EBB",
-			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Ground.uasset"
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_TuyauxCote_2.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Tuyaux_2.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Tuyaux_3.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Veranda.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Library.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_VaseB.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_VaseA.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "22C00F3A7C911BE34A8C504697CD1BB330D729BA",
 			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Colonne.uasset"
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Colonne.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "6D55FB5CB9E9B148B8FFCB04E84628A52E5F15F1",
 			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_MurBrique.uasset"
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_MurBrique.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "151C3EFE768B4C62A798447439B176EDA79C3361",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Roof.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "690D99B68C1852CB4658CF36DC1C762A78F64B88",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Commode.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Mur2Faces.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Book1.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Book2.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Book3.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Lit.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Mur.uasset"
 			]
 		},
 		{
@@ -331,33 +342,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C1C2F781733C54BE7BA6856C66758D956EA88763",
-			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Keys.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "11550CA62C7779F90879C8D0218A91A81B7A02C9",
 			"Assets": [
 				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "EC457B689C0AF9F63BE6686C2FD49B9C79559B4B",
-			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Metal.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "D226D11359EE19EABED2E3592E7FF195D12A750D",
 			"Assets": [
-				"../../../../../../Users/PRETE Florian/Documents/GitHub/Enquete/Enquete 4.26/Content/03_PROPS/Materials/KeyDoor_Mat.uasset"
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/KeyDoor_Mat.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "EF22CDEE30FE69622AAA89722E3948949B4AF9BA",
+			"ShaderMapHash": "8FA35A64F15F67A5BE260E44CDEE425F59F279F6",
 			"Assets": [
-				"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset"
+				"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset"
 			]
 		},
 		{
@@ -367,9 +366,47 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8FA35A64F15F67A5BE260E44CDEE425F59F279F6",
+			"ShaderMapHash": "EF22CDEE30FE69622AAA89722E3948949B4AF9BA",
 			"Assets": [
-				"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset"
+				"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9D5C27FECA0445591888C5DC5A0AD03C65CC33E1",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_highlightitem.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "159F0537050D6496E11206B17EAFE28F44405E62",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Caisse1.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Table_basse.uasset",
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Caisse2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1C8D8221C6D8EFF458339FFC0BE35C364DC81713",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Gravier.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "19002C9D84EF004D1B52DCA571E09D2EE5A21EBB",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Ground.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "297BC19E437576C3E7D4CB080AC96D45A28B54F0",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Metal.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1DADD29B6107758C5B1B17F1D929ADFEF7AFA831",
+			"Assets": [
+				"../../../../../Enquete/Enquete 4.26/Content/03_PROPS/Materials/M_Gravier_2.uasset"
 			]
 		}
 	]
